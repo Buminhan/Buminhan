@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buminhan
-- 👀 I’m interested in Java and C++.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in backend development and phyton.
+- 🌱 I’m currently learning phyton.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
